@@ -1,0 +1,951 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\MEGA\HOPEX V4\system\xmlmega.xsl"?>
+<MegaExchange>
+  <Header>
+    <Attribute metaattribute.id="27C729AE3F4E004A" metaattribute.name="exchange_format_version"><Value format="internal">001001</Value><Value format="display">1.1</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0050" metaattribute.name="mega_version"><Value format="internal">36864</Value><Value format="display">HOPEX V4.00.00</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0056" metaattribute.name="metamodel_language"><Value format="internal">1BE01BFA2EC10001</Value><Value format="display">English</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E005C" metaattribute.name="model_default_language"><Value format="internal">1BE01BFA2EC10001</Value><Value format="display">English</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0062" metaattribute.name="default_format"><Value format="internal">10</Value><Value format="display">internal</Value></Attribute>
+    <Attribute metaattribute.id="27C729AE3F4E0068" metaattribute.name="author"><Value format="internal">2D712F595BBF12B3</Value><Value format="display">BESSODES Patrick</Value></Attribute>
+    <Attribute metaattribute.id="27C729AF3F4E006E" metaattribute.name="source_database"><Value format="internal">D82513EC5EE01291</Value><Value format="display">SOHO</Value></Attribute>
+    <Attribute metaattribute.id="27C729AF3F4E0074" metaattribute.name="creation_date"><Value format="internal">738927405ee0d357</Value><Value format="display">Wed Jun 10 12:34:31 2020&#10;</Value></Attribute>
+  </Header>
+  <Commands>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">2D712F595BBF12B3</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2020/06/10 12:19:44</Value><Value format="display">2020/06/10 12:19:44</Value></Attribute>
+      <Object metaclass.name="Library" metaclass.id="7221815F3D210049" id="0EF372D7596F47E4"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Version of last conversion" metaattribute.id="21E6222A4C590039">0</Attribute>
+        <Attribute metaattribute.name="TOGAF Architecture Level" metaattribute.id="A685AAA44BD90146"><Value format="internal">L</Value><Value format="display">Logical</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">0EF372D7596F47E4</Value><Value format="display">MEGA::IT Infrastructure Sample</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">2D712F595BBF12B3</Value><Value format="display">BESSODES Patrick</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 14:55:19</Value><Value format="display">7/19/2017 4:55:19 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2020/06/10 12:19:44</Value><Value format="display">6/10/2020 2:19:44 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2020/06/10 12:19:44</Value><Value format="display">6/10/2020 2:19:44 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2020/06/10 12:19:44</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">6/10/2020 2:19:44 PM</Value></Attribute>
+        <Attribute metaattribute.name="Generic Local name" metaattribute.id="000000004000006A"><Value format="internal">IT Infrastructure Sample[150D1BD5482001CD]</Value><Value format="display">IT Infrastructure Sample</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Exemples de composants d'infrastructure informatique[150D1BD5482001CD]</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">Exemples de composants d'infrastructure informatique</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:36:21</Value><Value format="display">2017/07/19 15:36:21</Value></Attribute>
+      <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" id="73C57840596F6763"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57840596F6763</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Laptop</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Portable</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:18:24</Value><Value format="display">7/19/2017 5:18:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:36:21</Value><Value format="display">7/19/2017 5:36:21 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:18:24</Value><Value format="display">7/19/2017 5:18:24 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:36:21</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:36:21 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:46</Value><Value format="display">2017/07/19 15:46:46</Value></Attribute>
+      <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" id="73C5784A596F6786"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5784A596F6786</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Mobile Phone</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Téléphone mobile</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:18:34</Value><Value format="display">7/19/2017 5:18:34 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:46</Value><Value format="display">7/19/2017 5:46:46 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:46:46</Value><Value format="display">7/19/2017 5:46:46 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:36:33</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:36:33 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:31</Value><Value format="display">2017/07/19 15:46:31</Value></Attribute>
+      <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" id="73C57853596F67A8"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57853596F67A8</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Tablet</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Tablette</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:18:43</Value><Value format="display">7/19/2017 5:18:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:31</Value><Value format="display">7/19/2017 5:46:31 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:46:31</Value><Value format="display">7/19/2017 5:46:31 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:36:41</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:36:41 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:28</Value><Value format="display">2017/07/19 15:46:28</Value></Attribute>
+      <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" id="90DBB1A859194D28"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">90DBB1A859194D28</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Workstation</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Poste de travail</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/05/15 13:48:24</Value><Value format="display">5/15/2017 3:48:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:28</Value><Value format="display">7/19/2017 5:46:28 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:46:28</Value><Value format="display">7/19/2017 5:46:28 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:37:11</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:37:11 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:12</Value><Value format="display">2017/07/19 15:46:12</Value></Attribute>
+      <Object metaclass.name="IT Network" metaclass.id="127114C158DA1328" id="73C57B0B596F688B"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B0B596F688B</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">73C57B0B596F688B</Value><Value format="display">MEGA::IT Infrastructure Sample::Local Area Network</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:30:19</Value><Value format="display">7/19/2017 5:30:19 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:12</Value><Value format="display">7/19/2017 5:46:12 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:46:12</Value><Value format="display">7/19/2017 5:46:12 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:37:29</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:37:29 PM</Value><Value format="internal" language.name="Dutch" language.id="819E84423C3C0061">2017/07/19 15:46:12</Value><Value format="display" language.name="Dutch" language.id="819E84423C3C0061">7/19/2017 5:46:12 PM</Value></Attribute>
+        <Attribute metaattribute.name="Generic Local name" metaattribute.id="000000004000006A"><Value format="internal">Local Area Network[0EF372D7596F47E4]</Value><Value format="display">Local Area Network</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Réseau Local[0EF372D7596F47E4]</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">Réseau Local</Value><Value format="internal" language.name="Dutch" language.id="819E84423C3C0061">Local Area Network[0EF372D7596F47E4]</Value><Value format="display" language.name="Dutch" language.id="819E84423C3C0061">Local Area Network</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:00</Value><Value format="display">2017/07/19 15:46:00</Value></Attribute>
+      <Object metaclass.name="IT Network" metaclass.id="127114C158DA1328" id="73C57B14596F68AE"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B14596F68AE</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">73C57B14596F68AE</Value><Value format="display">MEGA::IT Infrastructure Sample::Wide Area Network</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:30:28</Value><Value format="display">7/19/2017 5:30:28 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:00</Value><Value format="display">7/19/2017 5:46:00 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:46:00</Value><Value format="display">7/19/2017 5:46:00 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:38:33</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:38:33 PM</Value></Attribute>
+        <Attribute metaattribute.name="Generic Local name" metaattribute.id="000000004000006A"><Value format="internal">Wide Area Network[0EF372D7596F47E4]</Value><Value format="display">Wide Area Network</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Réseau à grande distance[0EF372D7596F47E4]</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">Réseau à grande distance</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:06</Value><Value format="display">2017/07/19 15:46:06</Value></Attribute>
+      <Object metaclass.name="IT Network" metaclass.id="127114C158DA1328" id="73C5787C596F67CA"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5787C596F67CA</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">73C5787C596F67CA</Value><Value format="display">MEGA::IT Infrastructure Sample::Network</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:19:24</Value><Value format="display">7/19/2017 5:19:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:46:06</Value><Value format="display">7/19/2017 5:46:06 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:46:06</Value><Value format="display">7/19/2017 5:46:06 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:37:37</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:37:37 PM</Value></Attribute>
+        <Attribute metaattribute.name="Generic Local name" metaattribute.id="000000004000006A"><Value format="internal">Network[0EF372D7596F47E4]</Value><Value format="display">Network</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Réseau[0EF372D7596F47E4]</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">Réseau</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:55</Value><Value format="display">2017/07/19 15:45:55</Value></Attribute>
+      <Object metaclass.name="IT Peripheral Device" metaclass.id="5DB8633A58BD2F75" id="73C57B70596F68F4"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B70596F68F4</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Firewall</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Pare feu</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:32:00</Value><Value format="display">7/19/2017 5:32:00 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:55</Value><Value format="display">7/19/2017 5:45:55 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:45:55</Value><Value format="display">7/19/2017 5:45:55 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:44:08</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:44:08 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:49</Value><Value format="display">2017/07/19 15:45:49</Value></Attribute>
+      <Object metaclass.name="IT Peripheral Device" metaclass.id="5DB8633A58BD2F75" id="73C57B9B596F691F"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B9B596F691F</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Printer</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Imprimante</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:32:43</Value><Value format="display">7/19/2017 5:32:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:49</Value><Value format="display">7/19/2017 5:45:49 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:45:49</Value><Value format="display">7/19/2017 5:45:49 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:44:17</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:44:17 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:35</Value><Value format="display">2017/07/19 15:45:35</Value></Attribute>
+      <Object metaclass.name="IT Peripheral Device" metaclass.id="5DB8633A58BD2F75" id="73C57BA7596F6941"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57BA7596F6941</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Wireless Access Point</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Accès réseau sans-fil</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:32:55</Value><Value format="display">7/19/2017 5:32:55 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:35</Value><Value format="display">7/19/2017 5:45:35 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:45:33</Value><Value format="display">7/19/2017 5:45:33 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:45:29</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:45:29 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:44:41</Value><Value format="display">2017/07/19 15:44:41</Value></Attribute>
+      <Object metaclass.name="IT Peripheral Device" metaclass.id="5DB8633A58BD2F75" id="73C57BB0596F6963"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57BB0596F6963</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Router</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Routeur</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:33:04</Value><Value format="display">7/19/2017 5:33:04 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:44:41</Value><Value format="display">7/19/2017 5:44:41 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:44:41</Value><Value format="display">7/19/2017 5:44:41 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:44:37</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:44:37 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:18</Value><Value format="display">2017/07/19 15:45:18</Value></Attribute>
+      <Object metaclass.name="IT Peripheral Device" metaclass.id="5DB8633A58BD2F75" id="73C57BB8596F6985"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57BB8596F6985</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Switch</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Commutateur</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:33:12</Value><Value format="display">7/19/2017 5:33:12 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:45:18</Value><Value format="display">7/19/2017 5:45:18 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:45:18</Value><Value format="display">7/19/2017 5:45:18 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:45:07</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:45:07 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:31</Value><Value format="display">2017/07/19 15:53:31</Value></Attribute>
+      <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" id="73C57802596F669D"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57802596F669D</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Virtual Server</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Serveur virtuel</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:17:22</Value><Value format="display">7/19/2017 5:17:22 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:31</Value><Value format="display">7/19/2017 5:53:31 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:53:19</Value><Value format="display">7/19/2017 5:53:19 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:53:25</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:53:25 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:39</Value><Value format="display">2017/07/19 15:53:39</Value></Attribute>
+      <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" id="73C57809596F66BF"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57809596F66BF</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Server Farm</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Ferme de serveur</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:17:29</Value><Value format="display">7/19/2017 5:17:29 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:39</Value><Value format="display">7/19/2017 5:53:39 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:52:40</Value><Value format="display">7/19/2017 5:52:40 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:52:43</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:52:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:51:58</Value><Value format="display">2017/07/19 15:51:58</Value></Attribute>
+      <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" id="73C57810596F66E1"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57810596F66E1</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Mainframe</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Grand système</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:17:36</Value><Value format="display">7/19/2017 5:17:36 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:51:58</Value><Value format="display">7/19/2017 5:51:58 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:51:49</Value><Value format="display">7/19/2017 5:51:49 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:51:58</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:51:58 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:13</Value><Value format="display">2017/07/19 15:53:13</Value></Attribute>
+      <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" id="73C5781C596F6703"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5781C596F6703</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Super Computer</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Super calculateur</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:17:48</Value><Value format="display">7/19/2017 5:17:48 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:13</Value><Value format="display">7/19/2017 5:53:13 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:53:13</Value><Value format="display">7/19/2017 5:53:13 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:53:08</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:53:08 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025">4F744FCC526936A5</Attribute>
+      <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:42</Value><Value format="display">2017/07/19 15:53:42</Value></Attribute>
+      <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" id="73C577DE596F6679"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Attribute metaattribute.name="Translation Requirement By Mega Doc" metaattribute.id="EA66EBA64700000D"><Value format="internal">TR</Value><Value format="display">Translate</Value></Attribute>
+        <Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C577DE596F6679</Attribute>
+        <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002"><Value format="internal">Server</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">Serveur</Value></Attribute>
+        <Attribute metaattribute.name="Create Version" metaattribute.id="0000000040000045"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Update Version" metaattribute.id="0000000040000046"><Value format="internal">30464</Value><Value format="display">HOPEX V2</Value></Attribute>
+        <Attribute metaattribute.name="Modifier" metaattribute.id="0000000040000025"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Writing access area" metaattribute.id="0000000040000027"><Value format="internal">0000000033333333</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Creator" metaattribute.id="000000004000003E"><Value format="internal">4F744FCC526936A5</Value><Value format="display">LE GUELLEC Olivier</Value></Attribute>
+        <Attribute metaattribute.name="Creation Date" metaattribute.id="0000000040000005"><Value format="internal">2017/07/19 15:16:46</Value><Value format="display">7/19/2017 5:16:46 PM</Value></Attribute>
+        <Attribute metaattribute.name="Modification Date" metaattribute.id="0000000040000006"><Value format="internal">2017/07/19 15:53:42</Value><Value format="display">7/19/2017 5:53:42 PM</Value></Attribute>
+        <Attribute metaattribute.name="Language Update Date" metaattribute.id="0000000040000064"><Value format="internal">2017/07/19 15:52:07</Value><Value format="display">7/19/2017 5:52:07 PM</Value><Value format="internal" language.name="Français" language.id="5DC05E192E990DA3">2017/07/19 15:52:10</Value><Value format="display" language.name="Français" language.id="5DC05E192E990DA3">7/19/2017 5:52:10 PM</Value></Attribute>
+        <Attribute metaattribute.name="Reading access area identifier" metaattribute.id="000000004000007F"><Value format="internal">sTlVwxdH3100</Value><Value format="display">Standard</Value></Attribute>
+      </Object>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">2D712F595BBF12B3</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2020/06/10 12:19:44</Value><Value format="display">2020/06/10 12:19:44</Value></Attribute>
+      <Link frommetaclass.name="Library" frommetaclass.id="7221815F3D210049" metaassociationend.name="Sub-Architecture Container" metaassociationend.id="E8B0FF2A56C62D1D"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="150D1BD5482001CD"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">150D1BD5482001CD</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">150D1BD5482001CD</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block Container" metaclass.id="2EA133CD565C2F7D" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2020/06/10 12:19:44</Value><Value format="display">6/10/2020 2:19:44 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2020/06/10 12:19:44</Value><Value format="display">6/10/2020 2:19:44 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">2D712F595BBF12B3</Value><Value format="display">BESSODES Patrick</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">2D712F595BBF12B3</Value><Value format="display">BESSODES Patrick</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:16:46</Value><Value format="display">2017/07/19 15:16:46</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C577DE596F6679"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C577DE596F6679</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Server</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:16:46</Value><Value format="display">7/19/2017 5:16:46 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:16:46</Value><Value format="display">7/19/2017 5:16:46 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:22</Value><Value format="display">2017/07/19 15:17:22</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57802596F669D"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57802596F669D</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Virtual Server</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:17:22</Value><Value format="display">7/19/2017 5:17:22 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:22</Value><Value format="display">7/19/2017 5:17:22 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:29</Value><Value format="display">2017/07/19 15:17:29</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57809596F66BF"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57809596F66BF</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Server Farm</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:17:29</Value><Value format="display">7/19/2017 5:17:29 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:29</Value><Value format="display">7/19/2017 5:17:29 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:36</Value><Value format="display">2017/07/19 15:17:36</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57810596F66E1"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57810596F66E1</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Mainframe</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:17:36</Value><Value format="display">7/19/2017 5:17:36 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:36</Value><Value format="display">7/19/2017 5:17:36 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:48</Value><Value format="display">2017/07/19 15:17:48</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C5781C596F6703"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5781C596F6703</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Super Computer</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:17:48</Value><Value format="display">7/19/2017 5:17:48 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:17:48</Value><Value format="display">7/19/2017 5:17:48 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:24</Value><Value format="display">2017/07/19 15:18:24</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57840596F6763"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57840596F6763</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Laptop</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:18:24</Value><Value format="display">7/19/2017 5:18:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:24</Value><Value format="display">7/19/2017 5:18:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:34</Value><Value format="display">2017/07/19 15:18:34</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C5784A596F6786"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5784A596F6786</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Mobile Phone</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:18:34</Value><Value format="display">7/19/2017 5:18:34 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:34</Value><Value format="display">7/19/2017 5:18:34 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:43</Value><Value format="display">2017/07/19 15:18:43</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57853596F67A8"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57853596F67A8</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Tablet</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:18:43</Value><Value format="display">7/19/2017 5:18:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:43</Value><Value format="display">7/19/2017 5:18:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:19:24</Value><Value format="display">2017/07/19 15:19:24</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C5787C596F67CA"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5787C596F67CA</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">73C5787C596F67CA</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:19:24</Value><Value format="display">7/19/2017 5:19:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:19:24</Value><Value format="display">7/19/2017 5:19:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:30:19</Value><Value format="display">2017/07/19 15:30:19</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57B0B596F688B"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B0B596F688B</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">73C57B0B596F688B</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:30:19</Value><Value format="display">7/19/2017 5:30:19 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:30:19</Value><Value format="display">7/19/2017 5:30:19 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:30:29</Value><Value format="display">2017/07/19 15:30:29</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57B14596F68AE"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B14596F68AE</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">73C57B14596F68AE</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:30:29</Value><Value format="display">7/19/2017 5:30:29 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:30:29</Value><Value format="display">7/19/2017 5:30:29 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:32:00</Value><Value format="display">2017/07/19 15:32:00</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57B70596F68F4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B70596F68F4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Firewall</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:32:00</Value><Value format="display">7/19/2017 5:32:00 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:32:00</Value><Value format="display">7/19/2017 5:32:00 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:32:43</Value><Value format="display">2017/07/19 15:32:43</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57B9B596F691F"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B9B596F691F</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Printer</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:32:43</Value><Value format="display">7/19/2017 5:32:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:32:43</Value><Value format="display">7/19/2017 5:32:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:32:55</Value><Value format="display">2017/07/19 15:32:55</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57BA7596F6941"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57BA7596F6941</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Wireless Access Point</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:32:55</Value><Value format="display">7/19/2017 5:32:55 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:32:55</Value><Value format="display">7/19/2017 5:32:55 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:33:04</Value><Value format="display">2017/07/19 15:33:04</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57BB0596F6963"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57BB0596F6963</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Router</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:33:04</Value><Value format="display">7/19/2017 5:33:04 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:33:04</Value><Value format="display">7/19/2017 5:33:04 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:33:12</Value><Value format="display">2017/07/19 15:33:12</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="73C57BB8596F6985"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57BB8596F6985</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Switch</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:33:12</Value><Value format="display">7/19/2017 5:33:12 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:33:12</Value><Value format="display">7/19/2017 5:33:12 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:03</Value><Value format="display">2017/07/19 15:18:03</Value></Attribute>
+      <Link frommetaclass.name="Architecture Building Block Container" frommetaclass.id="2EA133CD565C2F7D" metaassociationend.name="Owned Architecture Block" metaassociationend.id="2EA13436565C2FB9"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="Library" metaclass.id="7221815F3D210049" idref="0EF372D7596F47E4"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">0EF372D7596F47E4</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">0EF372D7596F47E4</Attribute>
+        </Object>
+        <Object metaclass.name="Architecture Building Block" metaclass.id="A715AB0648290023" idref="90DBB1A859194D28"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">90DBB1A859194D28</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Workstation</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/05/15 13:48:24</Value><Value format="display">5/15/2017 3:48:24 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:18:03</Value><Value format="display">7/19/2017 5:18:03 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:20:31</Value><Value format="display">2017/07/19 15:20:31</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" idref="73C57840596F6763"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57840596F6763</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Laptop</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="A60AB99F595B0BA3"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">A60AB99F595B0BA3</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Device_laptop</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:20:31</Value><Value format="display">7/19/2017 5:20:31 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:20:31</Value><Value format="display">7/19/2017 5:20:31 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:21:07</Value><Value format="display">2017/07/19 15:21:07</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" idref="73C5784A596F6786"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5784A596F6786</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Mobile Phone</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="A60AB9CA595B0BF8"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">A60AB9CA595B0BF8</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Device_smartphone</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:21:07</Value><Value format="display">7/19/2017 5:21:07 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:21:07</Value><Value format="display">7/19/2017 5:21:07 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:21:32</Value><Value format="display">2017/07/19 15:21:32</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" idref="73C57853596F67A8"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57853596F67A8</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Tablet</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="A60ABB0A595B0C4A"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">A60ABB0A595B0C4A</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Device_tablet</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:21:32</Value><Value format="display">7/19/2017 5:21:32 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:21:32</Value><Value format="display">7/19/2017 5:21:32 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:23:50</Value><Value format="display">2017/07/19 15:23:50</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Device" metaclass.id="C29DC44258C72098" idref="90DBB1A859194D28"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">90DBB1A859194D28</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Workstation</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="AFC5DB84591A3F1D"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">AFC5DB84591A3F1D</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Device_Workstation</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:23:50</Value><Value format="display">7/19/2017 5:23:50 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:23:50</Value><Value format="display">7/19/2017 5:23:50 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:30:47</Value><Value format="display">2017/07/19 15:30:47</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Network" metaclass.id="127114C158DA1328" idref="73C57B0B596F688B"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B0B596F688B</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">73C57B0B596F688B</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="A60AAE7B595B0A01"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">A60AAE7B595B0A01</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Network_LAN</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:30:47</Value><Value format="display">7/19/2017 5:30:47 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:30:47</Value><Value format="display">7/19/2017 5:30:47 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:31:21</Value><Value format="display">2017/07/19 15:31:21</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Network" metaclass.id="127114C158DA1328" idref="73C57B14596F68AE"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57B14596F68AE</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">73C57B14596F68AE</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="A60AAE4E595B09AF"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">A60AAE4E595B09AF</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Network_WAN</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:31:21</Value><Value format="display">7/19/2017 5:31:21 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:31:21</Value><Value format="display">7/19/2017 5:31:21 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:29:57</Value><Value format="display">2017/07/19 15:29:57</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Network" metaclass.id="127114C158DA1328" idref="73C5787C596F67CA"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5787C596F67CA</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">73C5787C596F67CA</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="AFC5FD9C591A408A"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">AFC5FD9C591A408A</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Network</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:29:57</Value><Value format="display">7/19/2017 5:29:57 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:29:57</Value><Value format="display">7/19/2017 5:29:57 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:26:52</Value><Value format="display">2017/07/19 15:26:52</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" idref="73C57802596F669D"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57802596F669D</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Virtual Server</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="BF7DD0FE595B3740"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">BF7DD0FE595B3740</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Server_Virtual_Server</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:26:52</Value><Value format="display">7/19/2017 5:26:52 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:26:52</Value><Value format="display">7/19/2017 5:26:52 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:25:28</Value><Value format="display">2017/07/19 15:25:28</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" idref="73C57809596F66BF"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57809596F66BF</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Server Farm</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="BF7DD121595B378F"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">BF7DD121595B378F</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Server_Server_Farm</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:25:28</Value><Value format="display">7/19/2017 5:25:28 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:25:28</Value><Value format="display">7/19/2017 5:25:28 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:27:15</Value><Value format="display">2017/07/19 15:27:15</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" idref="73C57810596F66E1"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C57810596F66E1</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Mainframe</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="BF7DD150595B37E1"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">BF7DD150595B37E1</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Server_Mainframe</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:27:15</Value><Value format="display">7/19/2017 5:27:15 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:27:15</Value><Value format="display">7/19/2017 5:27:15 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:26:23</Value><Value format="display">2017/07/19 15:26:23</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" idref="73C5781C596F6703"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C5781C596F6703</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Super Computer</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="BF7DD19A595B387F"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">BF7DD19A595B387F</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Server_SuperComputer</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:26:23</Value><Value format="display">7/19/2017 5:26:23 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:26:23</Value><Value format="display">7/19/2017 5:26:23 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+    <Add>
+      <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049">0000000C00000000</Attribute>
+      <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:24:43</Value><Value format="display">2017/07/19 15:24:43</Value></Attribute>
+      <Link frommetaclass.name="Element with Picture" frommetaclass.id="A0F9A2254A1F0050" metaassociationend.name="MetaPicture" metaassociationend.id="A0F9A28B4A1F0076"><Extension>
+          <AbstractionLevel>Concret</AbstractionLevel>
+        </Extension>
+        <Object metaclass.name="IT Server" metaclass.id="0A860D8E58F61D23" idref="73C577DE596F6679"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">73C577DE596F6679</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">Server</Attribute>
+        </Object>
+        <Object metaclass.name="MetaPicture" metaclass.id="454B455E35360001" idref="AFC5DBA2591A3F6C"><Attribute metaattribute.name="Absolute Identifier" metaattribute.id="0000000040000003">AFC5DBA2591A3F6C</Attribute>
+          <Attribute metaattribute.name="Name" metaattribute.id="0000000040000002">ITI_IT_Server_Server</Attribute>
+        </Object>
+        <Attribute metaattribute.name="Order" metaattribute.id="0000000040000004">9999</Attribute>
+        <Attribute metaattribute.name="Link creation date" metaattribute.id="0000000040000007"><Value format="internal">2017/07/19 15:24:43</Value><Value format="display">7/19/2017 5:24:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link modification date" metaattribute.id="0000000040000008"><Value format="internal">2017/07/19 15:24:43</Value><Value format="display">7/19/2017 5:24:43 PM</Value></Attribute>
+        <Attribute metaattribute.name="Link Creator" metaattribute.id="0000000040000047"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+        <Attribute metaattribute.name="Link Modifier" metaattribute.id="0000000040000049"><Value format="internal">0000000C00000000</Value><Value format="display">Administrator</Value></Attribute>
+      </Link>
+    </Add>
+  </Commands>
+</MegaExchange>
